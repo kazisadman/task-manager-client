@@ -1,0 +1,14 @@
+<svg width="191" height="131" viewBox="0 0 191 131" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Plane Element" clip-path="url(#clip0_1_1946)">
+<g id="Group 2">
+<path id="Vector 1" d="M102.439 30.8418L77.7974 11.7026L190.001 0.936768L157.225 75.1013L124.689 48.9984L101.004 60.9861L114.88 41.1292L190.001 0.936768L102.439 30.8418Z" fill="#FCECEB"/>
+<path id="Vector 2" d="M100.765 61.4646L102.2 31.0811L190.241 0.936768L114.88 40.8899L100.765 61.4646Z" fill="#EE7C92"/>
+</g>
+<path id="Vector 3" d="M0.841806 130.127C53.076 130.127 66.6329 121.753 66.6329 82.2785C66.6329 40.0127 26.7595 45.1963 26.7595 69.1203C26.7595 102.683 100.924 120.956 100.924 61.943" stroke="#DED2FA" stroke-width="2.39241" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10.11 10.11"/>
+</g>
+<defs>
+<clipPath id="clip0_1_1946">
+<rect width="189.399" height="129.19" fill="white" transform="translate(0.841797 0.936768)"/>
+</clipPath>
+</defs>
+</svg>
